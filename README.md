@@ -6,16 +6,16 @@
 
 ## ✨ <a name="features"></a>Exploit picoctf
 
-### ⚡️ Fast & Light
+### ⚡ Buffer overflow 0
 Starts streaming your inputs while downloading and converting them. Also, it
 doesn't make produce files.
-### 👮🏻‍♀️ Safe and handy
+### 👮🏻‍♀️ Buffer overflow 1
 Restricts control and sensitive commands to admins.
-### 🗑 Clean and spam free
+### 🗑 Buffer overflow 2
 Deletes old playing trash to keep your chats clean.
-### 😎 Has cool controls
+### 😎 Two sum
 Lets you switch stream mode, loop, pause, resume, mute, unmute anytime.
-### 🖼 Has cool thumbnails
+### 🖼 RPS
 Response your commands with cool thumbnails on the chat.
 ### 😉 Streams whatever you like
 You can stream audio or video files, YouTube videos with any duration,
