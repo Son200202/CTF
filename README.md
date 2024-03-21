@@ -38,8 +38,8 @@ Restricts control and sensitive commands to admins.
 Deletes old playing trash to keep your chats clean.
 ### Format String Vulnerable
 ## ✨ <a name="deploy"></a>Deploy
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.tech)
+(https://deploy.safone.tech)
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
-## ☁️ <a name="self_host"></a> Classroom
+## <a name="self_host"></a> Classroom
 
 
